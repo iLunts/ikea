@@ -1,2 +1,2 @@
-# index
-Main page for github pages.
+# ikea redesign ver. 0.1
+Redesign ikea page.
